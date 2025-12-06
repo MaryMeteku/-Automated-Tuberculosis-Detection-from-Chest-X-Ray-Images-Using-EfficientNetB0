@@ -1,0 +1,2 @@
+# -Automated-Tuberculosis-Detection-from-Chest-X-Ray-Images-Using-EfficientNetB0
+Tuberculosis remains a major health challenge, especially where access to radiologists is limited. Chest X-ray screening is common but prone to human error. This project uses transfer learning to classify X-rays as TB-positive or normal, aiming to support clinicians and improve early detection rather than replace medical expertise.
