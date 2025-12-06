@@ -236,7 +236,7 @@ Kaggle dataset by Yasser Hessein
 
 EfficientNet authors
 
-Michigan Technological University – Intro to Big Data Analytics Course
+Instructor - Dr. Neerav Kaushal
 
 ## 🧑‍⚕️ Final Remark
 
